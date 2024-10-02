@@ -1,8 +1,8 @@
 flask
-gunicorn
 pyrogram
 tgcrypto
 pymongo[srv]==4.5.0  # Updated version
 motor==3.1.1  # Updated for Python 3.11 compatibility
 marshmallow
 umongo
+gunicorn
